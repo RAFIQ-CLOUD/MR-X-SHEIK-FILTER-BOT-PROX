@@ -1,8 +1,8 @@
 {
-    "name": "Vip2",
-    "description": "Vip2",
+    "name": "MR-X-SHEIK-FILTER-BOT-PROX",
+    "description": "MR-X-SHEIK-FILTER-BOT-PROX",
     "stack": "container",
-    "logo": "https://telegra.ph/file/036456b01d6e42f924baf.jpg",
+    "logo": "https://telegra.ph/file/73727410cdf31016da19a.png",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MS-BOTZZZ/Vip2",
-    "repository": "https://github.com/MS-BOTZZZ/Vip2",
+    "website": "RAFIQ-CLOUD/MR-X-SHEIK-FILTER-BOT-PROX",
+    "repository": "RAFIQ-CLOUD/MR-X-SHEIK-FILTER-BOT-PROX",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -76,7 +76,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
