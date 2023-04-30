@@ -45,8 +45,8 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MR_X_MIRROR')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>🗂FileName : <code>{file_name}</code> \n\n🏷FileSize : <code>{file_size}</code>\n\nJoin Fast 💖\n👇👇👇👇\n@SheikXMoviesOffl\n@SheikXRequestMoviesOffl</b>")
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b>🗂FileName : <code>{file_name}</code> \n\n🏷FileSize : <code>{file_size}</code>\n\nJoin Fast 💖\n👇👇👇👇\n@SheikXMoviesOffl\n@SheikXRequestMoviesOffl</b>")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>ɴᴀᴍᴇ : <code>{file_name}</code> \n\n <b>ꜱɪᴢᴇ :<code> {file_size}</code> \n\n» New Updates :\n      @SheikXLinks\n» Movie Request 24×7 :\n      @SheikXRequestMoviesOffl\n\n◤ ❤️JOIN : @SheikXMoviesOffl ◢</b>")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b>ɴᴀᴍᴇ : <code>{file_name}</code> \n\n <b>ꜱɪᴢᴇ :<code> {file_size}</code> \n\n» New Updates :\n      @SheikXLinks\n» Movie Request 24×7 :\n      @SheikXRequestMoviesOffl\n\n◤ ❤️JOIN : @SheikXMoviesOffl ◢</b>")
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>🗂 Title : {title} \n🎭 Genre : {genres} \n📆 Year : {year} \n🌟 Rating : {rating}\n\n📥 Uploaded By : @SheikXMoviesOffl</b>")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), False)
@@ -82,7 +82,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ📥"
-DOWNLOAD_TEXT_URL = "https://t.me/SheikXMoviesOffl/75"
+DOWNLOAD_TEXT_URL = "https://t.me/SheikXMoviesOffl/53"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "❤️JOIN❤️‍"
