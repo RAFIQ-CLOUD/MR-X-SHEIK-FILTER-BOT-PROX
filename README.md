@@ -70,7 +70,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MS-BOTZZZ/Vip2">
+<a href="https://heroku.com/deploy?template=https://github.com/RAFIQ-CLOUD/MR-X-SHEIK-FILTER-BOT-PROX">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
